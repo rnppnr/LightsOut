@@ -6,4 +6,4 @@ Implement the game for a 5 by 5 grid in the .Net environment.
 
 The game must start with some lights turned on, and the user keeps playing till he either gives up or turns off all the lights.
 
-![](/MainForm.png)
+![](/Form.png)
