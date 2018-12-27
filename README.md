@@ -1,3 +1,3 @@
 # LightsOut
 
-[](/MainForm.png)
+![](/MainForm.png)
